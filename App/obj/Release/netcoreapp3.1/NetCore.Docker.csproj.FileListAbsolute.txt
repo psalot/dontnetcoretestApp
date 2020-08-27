@@ -1,0 +1,13 @@
+/var/www/html/poc/dotnetcore/testApp/App/bin/Release/netcoreapp3.1/NetCore.Docker
+/var/www/html/poc/dotnetcore/testApp/App/bin/Release/netcoreapp3.1/NetCore.Docker.deps.json
+/var/www/html/poc/dotnetcore/testApp/App/bin/Release/netcoreapp3.1/NetCore.Docker.runtimeconfig.json
+/var/www/html/poc/dotnetcore/testApp/App/bin/Release/netcoreapp3.1/NetCore.Docker.runtimeconfig.dev.json
+/var/www/html/poc/dotnetcore/testApp/App/bin/Release/netcoreapp3.1/NetCore.Docker.dll
+/var/www/html/poc/dotnetcore/testApp/App/bin/Release/netcoreapp3.1/NetCore.Docker.pdb
+/var/www/html/poc/dotnetcore/testApp/App/obj/Release/netcoreapp3.1/NetCore.Docker.csprojAssemblyReference.cache
+/var/www/html/poc/dotnetcore/testApp/App/obj/Release/netcoreapp3.1/NetCore.Docker.AssemblyInfoInputs.cache
+/var/www/html/poc/dotnetcore/testApp/App/obj/Release/netcoreapp3.1/NetCore.Docker.AssemblyInfo.cs
+/var/www/html/poc/dotnetcore/testApp/App/obj/Release/netcoreapp3.1/NetCore.Docker.csproj.CoreCompileInputs.cache
+/var/www/html/poc/dotnetcore/testApp/App/obj/Release/netcoreapp3.1/NetCore.Docker.dll
+/var/www/html/poc/dotnetcore/testApp/App/obj/Release/netcoreapp3.1/NetCore.Docker.pdb
+/var/www/html/poc/dotnetcore/testApp/App/obj/Release/netcoreapp3.1/NetCore.Docker.genruntimeconfig.cache
